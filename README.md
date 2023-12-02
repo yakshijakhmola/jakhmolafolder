@@ -1,2 +1,3 @@
 # jakhmolafolder
 this is my first git file
+jakhmola family is osm...
